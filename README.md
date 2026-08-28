@@ -1,16 +1,65 @@
-## Hi there 👋
+# Aafreen Andrea Azam
+### Biotechnology | Molecular Biology & Immunology | Bioinformatics
+*M.Sc. Student with hands-on expertise in molecular biology, immunology assays, BSL-2 microbiology, and computational NGS pipelines.*
 
-<!--
-**aafreenaazam01/aafreenaazam01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aafreen-andrea-azam-b935093b4)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aafreenandreaazam@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧬 About Me
+- 🎓 **Academic Base:** M.Sc. Biotechnology student at **Patna Women's College**.
+- 🧪 **Molecular Biology & Immunology:** Hands-on experience with nucleic acid extraction, PCR techniques, immunoassays (ELISA), SDS-PAGE, and quantitative protein analysis.
+- 🧫 **Microbiology & AMR:** Trained in BSL-2 pathogen handling, aseptic techniques, antimicrobial susceptibility testing, and resistance mechanisms.
+- 🌾 **Plant Transcriptomics & Bioinformatics:** Building reproducible Linux, Bash, R, and Python pipelines for RNA-Seq differential gene expression and functional pathway enrichment.
+- ♻️ **Environmental Biotechnology:** Isolating and characterizing microbial strains for plastic biodegradation capabilities.
+
+---
+
+### ⚡ Technical Expertise Matrix
+
+| 🧪 Molecular Biology & Immunology | 🧫 Microbiology & Cell Biology | 💻 Bioinformatics & Data Analysis |
+| :--- | :--- | :--- |
+| **Nucleic Acids:** Genomic DNA & RNA extraction, quality assessment | **BSL-2 Safety:** Pathogen handling & aseptic culture techniques | **Environment & Scripting:** Linux/Unix, Bash automation, Git |
+| **Amplification & Assays:** PCR, agarose gel electrophoresis | **Microbial Assays:** AMR profiling, growth kinetics, staining | **Statistical Computing:** Python, R (`DESeq2`, `ggplot2`) |
+| **Immunology:** ELISA, immunodetection assays | **Cell Culture:** Animal cell line maintenance & viability testing | **RNA-Seq Pipeline:** FastQC, Trimmomatic, HISAT2, featureCounts |
+| **Protein Techniques:** Protein isolation, SDS-PAGE, quantitative estimation | **Environmental:** Plastic-degrading strain isolation & screening | **Pathway Enrichment:** GFF parsing, GO/KEGG, gprofiler2, STRING-db |
+
+---
+
+### 🛠️ Bioinformatics & Programming Stack
+
+**Languages & Systems**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Bioinformatics Pipeline Tools**  
+![Quality Control](https://img.shields.io/badge/QC-FastQC%20%7C%20MultiQC-blue?style=flat-square)
+![Trimming](https://img.shields.io/badge/Preprocessing-Trimmomatic-blue?style=flat-square)
+![Alignment](https://img.shields.io/badge/Alignment-HISAT2%20%7C%20Samtools-blue?style=flat-square)
+![Quantification](https://img.shields.io/badge/Quantification-featureCounts-green?style=flat-square)
+![Differential Expression](https://img.shields.io/badge/Analysis-DESeq2-green?style=flat-square)
+![Enrichment](https://img.shields.io/badge/Pathway%20Enrichment-gprofiler2%20%7C%20STRING--db-orange?style=flat-square)
+
+---
+
+### 📌 Featured Repository
+
+> 🌾 **[Cicer arietinum Salinity RNA-Seq Pipeline](https://github.com/aafreenaazam01/cicer-SALINITY-rnaseq)**  
+> An end-to-end transcriptomic pipeline evaluating gene expression dynamics under salinity stress in chickpea. Features raw read trimming, HISAT2 genome alignment, featureCounts gene quantification, DESeq2 differential expression, and GO/KEGG functional enrichment mapping.
+
+---
+
+### 📊 GitHub Overview
+
+![GitHub Repositories](https://img.shields.io/badge/REPOSITORIES-2-2ebc4f?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=aafreenaazam01&color=0077b5&style=for-the-badge&label=PROFILE+VIEWS)
+
+---
+
+<blockquote align="center">
+  <b>From bench to byte — decoding the future of biology.</b>
+</blockquote>

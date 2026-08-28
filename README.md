@@ -46,10 +46,13 @@
 
 ---
 
-### 📌 Featured Repository
+### 📌 Repositories
 
 > 🌾 **[Cicer arietinum Salinity RNA-Seq Pipeline](https://github.com/aafreenaazam01/cicer-SALINITY-rnaseq)**  
 > An end-to-end transcriptomic pipeline evaluating gene expression dynamics under salinity stress in chickpea. Features raw read trimming, HISAT2 genome alignment, featureCounts gene quantification, DESeq2 differential expression, and GO/KEGG functional enrichment mapping.
+
+> 🩺 **[Project 37: AI-Driven Maternal Risk Detection](https://github.com/aafreenaazam01/project37)** | **[🚀 Live Web App](https://project37-maternalhealth.streamlit.app)**  
+> An interactive Streamlit clinical decision support system evaluating vital indicators (blood pressure, hemoglobin, WBC count, gestation week) and patient symptoms to deliver early maternal risk scoring, driver identification, and risk trend analytics.
 
 ---
 
